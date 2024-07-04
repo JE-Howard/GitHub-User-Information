@@ -34,12 +34,6 @@ A simple web application that allows users to search for GitHub user information
 2. Click the "Search" button.
 3. View the user's information displayed on the page.
 
-## Project Structure
-github-user-search/
-│
-├── index.html # Main HTML file
-├── styles.css # CSS file for styling
-└── script.js # JavaScript file for functionality
 
 ## Acknowledgements
 
